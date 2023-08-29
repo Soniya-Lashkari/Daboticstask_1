@@ -1,0 +1,29 @@
+.contact-content {
+    display: block;
+    height: 400px;
+    height: 80 vw;
+    background-color:white;
+    margin-top: 12px;
+    padding: 9px;
+}
+
+.form-box input,textarea{
+width: 40vw;
+padding: 5px 5px;
+margin: 3px;
+}
+
+
+.footer {
+    height: 50px;
+    background-color:cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+
+.footer a {
+    color: white;
+}

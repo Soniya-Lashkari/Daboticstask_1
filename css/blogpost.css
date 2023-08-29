@@ -1,0 +1,30 @@
+.post-img{
+    height: 300px;
+    overflow: hidden;
+    margin-top: 5px;
+}
+
+.post-img img{
+width: 100%;
+
+}
+.blog-post-content{
+color: white;
+}
+.blog-post-content h2{
+    text-align: center;
+ color: black;
+ font-family: 'Courier New', Courier, monospace;
+}
+.blog-post-content p{
+  
+    color:black;   
+}
+.row{
+    display: flex;
+}
+.more{
+    flex-direction: column;
+    align-items: center;
+    
+}
